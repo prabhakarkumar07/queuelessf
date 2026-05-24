@@ -1,0 +1,7 @@
+At line:1 char:331
++ ...  10; Write-Host "$ep - - $($_.Exception.Message.Substring(0,80))" } }
++                                                                        ~
+The Try statement is missing its Catch or Finally block.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingCatchOrFinally
+ 
